@@ -11,7 +11,8 @@ huggingface-hub
 ultralytics
 easyocr
 
-opencv-python
+opencv-python-headless
+
 Pillow
 numpy
 scikit-learn
