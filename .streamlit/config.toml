@@ -1,0 +1,21 @@
+[theme]
+base = "light"
+
+# Main Streamlit accent / focus color
+primaryColor = "#D6A542"
+
+# Overall application background
+backgroundColor = "#F4F7FB"
+
+# Secondary Streamlit surfaces
+secondaryBackgroundColor = "#EAF0F7"
+
+# Default text color
+textColor = "#0D1B2A"
+
+# Clean modern font
+font = "sans serif"
+
+
+[browser]
+gatherUsageStats = false
